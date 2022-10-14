@@ -2,10 +2,13 @@
     /* padding: 50px; */
     transition: transform .2s;
     /* Animation */
-    
     margin: 0 auto;
+    color: black;
+    
 }
 
 .di:hover {
     transform: scale(1.5);
+    color: crimson;
+
 }
